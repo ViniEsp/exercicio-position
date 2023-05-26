@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  div {
+    position: fixed;
+    height: 200px;
+    width: 200px;
+    background-color: rgb(29, 29, 29);
+  }
+  
+  .cinza {
+    background-color: rgb(221, 220, 220);
+    width: 100vw;
+    height: 100vh;
+  }
+  
+  .box1 {
+    top: 0;
+    left: 0;
+  }
+  
+  .box2 {
+    top: 0;
+    right: 0;
+  }
+  
+  .box3 {
+    bottom: 0;
+    right: 0;
+  }
+  
+  .box4 {
+    bottom: 0;
+    left: 0;
+  }

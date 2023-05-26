@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .cinza {
+    position: relative;
+    background-color: rgb(221, 220, 220);
+    width: 100vw;
+    height: 100vh;
+  }
+  
+  .azul {
+    background-color: blue;
+    position: absolute;
+    left: 25%;
+    top: 2.5%;
+    width: 50%;
+    height: 95%;
+  }
+  
+  .vermelho {
+    background-color: red;
+    position: absolute;
+    left: 12.5%;
+    top: 12.5%;
+    width: 75%;
+    height: 75%;
+  }
+  
+  .preto {
+    background-color: black;
+    position: absolute;
+    left: 15%;
+    top: 15%;
+    width: 70%;
+    height: 70%;
+  }
+  
+  .verde {
+    background-color: green;
+    position: absolute;
+    left: 22.5%;
+    top: 22.5%;
+    width: 55%;
+    height: 55%;
+  }
+  
+  .amarelo {
+    background-color: yellow;
+    position: absolute;
+    left: 30%;
+    top: 30%;
+    width: 40%;
+    height: 40%;
+  }

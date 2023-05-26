@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  article {
+    height: 40%;
+    width: 95%;
+    position: absolute;
+    background-color: rgb(29, 29, 29);
+  }
+  
+  .cinza {
+    background-color: rgb(221, 220, 220);
+    width: 100vw;
+    height: 100vh;
+  }
+  
+  .box1 {
+    top: 50px;
+    left: 25px;
+    border-radius: 40px;
+  }
+  
+  .box2 {
+    bottom: 50px;
+    left: 25px;
+    border: 3px solid red;
+    overflow-y: scroll;
+  }
+  
+  .paragrafo-box1,
+  .paragrafo-box2 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .paragrafo-box1 {
+    text-transform: uppercase;
+    margin: 20px;
+    font-size: 30px;
+    text-align: right;
+  }
+  
+  .paragrafo-box2 {
+    text-align: justify;
+    margin: 20px;
+    font-size: 20px;
+  }
